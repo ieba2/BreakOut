@@ -1,2 +1,2 @@
 # BreakOut
-A game with balls that hit bricks to break them
+A game with balls and bricks
